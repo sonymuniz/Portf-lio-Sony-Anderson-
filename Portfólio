@@ -1,0 +1,90 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de [Seu Nome]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            margin-bottom: 20px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Portfólio de [Seu Nome]</h1>
+        <p>Transformando ideias em soluções digitais</p>
+    </header><section>
+    <h2>Sobre Mim</h2>
+    <p>Sou um profissional apaixonado por tecnologia, marketing e automação, ajudando empresas a otimizarem seus processos e expandirem sua presença digital.</p>
+</section>
+
+<section>
+    <h2>Projetos</h2>
+    <ul>
+        <li>Agência de Marketing</li>
+        <li>Blog de Social Media & Marketing</li>
+        <li>Canal no YouTube</li>
+        <li>Automações para Lojas</li>
+        <li>SaaS em Desenvolvimento</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Serviços</h2>
+    <ul>
+        <li>Gestão de Redes Sociais</li>
+        <li>Automação para Negócios</li>
+        <li>Criação de Sites & Blogs</li>
+        <li>Estratégias de Marketing Digital</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contato</h2>
+    <p>Email: <a href="mailto:seuemail@example.com">seuemail@example.com</a></p>
+    <p>WhatsApp: <a href="https://wa.me/seunumerodetelefone">(XX) XXXXX-XXXX</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/seu-perfil" target="_blank">Seu LinkedIn</a></p>
+    <p>Instagram: <a href="https://instagram.com/seu-perfil" target="_blank">@seu-perfil</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2025 [Seu Nome] - Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
